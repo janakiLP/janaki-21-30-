@@ -1,0 +1,33 @@
+body{
+   
+    text-align: justify;
+    text-justify: inter-word;
+}
+   
+  
+    .a{
+        font-size: 14px;
+        text-align: justify;
+        font-display: grid;
+        font-weight: 300;
+        font-style: bold;
+        padding-left: 31%;
+}
+.head{
+    font-weight: 600;
+}
+.b{
+    font-size: 14px;
+    text-align: justify;
+    font-display: grid;
+    font-weight: 300;
+    font-style: bold;
+    padding-left: 33%;
+}
+.c{
+    text-align: right;
+    padding-right: 36%;
+}
+.d{
+    padding-left: 31%; 
+}
